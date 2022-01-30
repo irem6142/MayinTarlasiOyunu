@@ -11,4 +11,4 @@
 <br/>
 -Mayın yoksa ilgili noktaya değen tüm konumları (sağı, solu, yukarısı, aşağısı, sol üst çapraz, sağ üst çapraz, sağ alt çapraz, sol alt çapraz) ve etrafındaki mayınların sayısının toplamı ilgili noktaya yazılmalı. Noktaya değen herhangi bir mayın yok ise "-2" değeri vardır.
 <br/>
--Kullanıcı hiç bir mayına basmadan tüm noktaları seçebilirse oyunu kazanır.
+-Kullanıcı hiçbir mayına basmadan tüm noktaları seçebilirse oyunu kazanır.
