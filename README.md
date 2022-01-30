@@ -1,5 +1,6 @@
 # MayinTarlasiOyunu
-##Oyun Kuralları :
+## Oyun Kuralları :
+
 -Oyun metin tabanlıdır.
 -Matris boyutunu yani satır ve sütun sayısını kullanıcı belirliyor.
 -Diziye ait eleman sayısının çeyreği (elemanSayisi / 4) kadar rastgele mayın vardr.. 
