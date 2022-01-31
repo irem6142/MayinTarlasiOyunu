@@ -5,7 +5,7 @@
 <br/>
 -Matris boyutunu yani satır ve sütun sayısını kullanıcı belirliyor.
 <br/>
--Diziye ait eleman sayısının çeyreği (elemanSayisi / 4) kadar rastgele mayın vardr.
+-Diziye ait eleman sayısının çeyreği ((satır sayısı*sütun sayısı) / 4) kadar rastgele mayın vardır.
 <br/>
 -Kullanıcının girdiği noktada mayın var ise oyunu kaybeder.
 <br/>
